@@ -30,7 +30,12 @@ To provide a better inshight for the analysis and ensure data accuracy, we fisrt
 - The scores by school size
 - The scores by school type
 
-
 ## Results
+
+### School District Analysis
+
+
+
+
 
 
