@@ -125,7 +125,7 @@ There was no significant change to the scores by school types
 
 ## Summary: 
 
-Our Reports shows that after replacing Thomas High School 9th graters scores for math and reading, there was no significant change to the District Summary data.Even after updating the dataframe with new metrics from the school. The math and reading scores per school have not also change and well as scores by spending, school size or type. 
+Our Repors shows that after replacing Thomas High School 9th graters scores for math and reading, there was no significant change to the District Summary data.Even after updating the dataframe with new metrics from the school. The math and reading scores per school were not impacted with big margin  well as scores by spending, school size or type. 
 
 
 
