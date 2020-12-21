@@ -47,7 +47,9 @@ PyCity school district is constituted of 2 schools's types : district and charte
 
 #### After Replacing the 9th Grade scores
 
-![Dist_After](https://github.com/assaci/School_District_Analysis/blob/main/Dist_After.PNG?raw=true
+
+[dist_After](https://github.com/assaci/School_District_Analysis/blob/main/dist_After.PNG?raw=true)
+
 
 When comparing the 2 data from District Summary, we see that Thomas High School the percentage for passing match score was 93.27% , the passing reading score was 97.30%, and overall passing was 90.94. The passing math score percentage for the entire district 75%,  reading score were 86% while overall passing percentage was 65%.
 
