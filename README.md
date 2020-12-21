@@ -47,9 +47,7 @@ PyCity school district is constituted of 2 schools's types : district and charte
 
 #### After Replacing the 9th Grade scores
 
-
-[dist_After](https://github.com/assaci/School_District_Analysis/blob/main/dist_After.PNG?raw=true)
-
+![dist_After](https://github.com/assaci/School_District_Analysis/blob/main/dist_After.PNG?raw=true)
 
 When comparing the 2 data from District Summary, we see that Thomas High School the percentage for passing match score was 93.27% , the passing reading score was 97.30%, and overall passing was 90.94. The passing math score percentage for the entire district 75%,  reading score were 86% while overall passing percentage was 65%.
 
@@ -125,7 +123,7 @@ There was no significant change to the scores by school types
 
 ![Type_bef](https://github.com/assaci/School_District_Analysis/blob/main/Type_bef.PNG?raw=true)
 
-## Summary: 
+## Summary 
 
 Our Repors shows that after replacing Thomas High School 9th graters scores for math and reading, there was no significant change to the District Summary data.Even after updating the dataframe with new metrics from the school. The math and reading scores per school were not impacted with big margin  well as scores by spending, school size or type. 
 
