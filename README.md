@@ -33,6 +33,7 @@ To provide a better inshight for the analysis and ensure data accuracy, we fisrt
 ## Results
 
 ### School District Analysis
+PyCity school district is constituted of 2 schools's types : district and charter schools. It has 39,170 high school students. The total budget of the district is $24,649,428.00 , which are distributed between 15 high schools.  
 
 ![dist_summary_before](https://github.com/assaci/School_District_Analysis/blob/main/dist_summary_before.PNG?raw=true)
  
