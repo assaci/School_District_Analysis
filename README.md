@@ -35,12 +35,69 @@ To provide a better inshight for the analysis and ensure data accuracy, we fisrt
 ### School District Analysis
 PyCity school district is constituted of 2 schools's types : district and charter schools. It has 39,170 high school students. The total budget of the district is $24,649,428.00 , which are distributed between 15 high schools.  
 
-### District Summary after initial the analysis
+### District Summary with All Thomas High School grades and scores
 
 ![dist_summary_before](https://github.com/assaci/School_District_Analysis/blob/main/dist_summary_before.PNG?raw=true)
  
 ![dist_data](https://github.com/assaci/School_District_Analysis/blob/main/dist_data.PNG?raw=true)
- 
+
+### District Summary - without Thomas High School 9th Graders scores. 
+### School Summary 
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+## How does replacing the ninth-grade scores affect the following:
+
+### Math and reading scores by grade
+
+#### Scores by Grade Before Replacing the 9th Grade scores
+
+- Math Scores Per Grade
+![math_scores_bef](https://github.com/assaci/School_District_Analysis/blob/main/math_scores_bef.PNG?raw=true)
+
+- Reading Scores Per Grade
+
+![reading_sco_bef](https://github.com/assaci/School_District_Analysis/blob/main/reading_sco_bef.PNG?raw=true)
+
+#### Scores by Grade After Replacing the 9th Grade scores
+
+- Math Scores Per Grade
+
+![match_sc_after1](https://github.com/assaci/School_District_Analysis/blob/main/match_sc_after1.PNG?raw=true)
+
+- Reading Scores Per Grade
+
+![math_scores_after](https://github.com/assaci/School_District_Analysis/blob/main/math_scores_after.PNG?raw=true)
+
+### Scores by school spending
+
+#### Before Replacing the 9th Grade scores
+
+![Spending_bef](https://github.com/assaci/School_District_Analysis/blob/main/Spending_bef.PNG?raw=true)
+
+#### After Replacing the 9th Grade scores
+
+![spen_after](https://github.com/assaci/School_District_Analysis/blob/main/spen_after.PNG?raw=true)
+
+### Scores by school size
+
+#### Before Replacing the 9th Grade scores
+
+![size_bef](https://github.com/assaci/School_District_Analysis/blob/main/size_bef.PNG?raw=true)
+
+#### After Replacing the 9th Grade scores
+![rsize_after](https://github.com/assaci/School_District_Analysis/blob/main/size_after.PNG?raw=true)
+
+### Scores by school type
+
+#### Before Replacing the 9th Grade scores
+
+![type_after](https://github.com/assaci/School_District_Analysis/blob/main/type_after.PNG?raw=true)
+
+#### After Replacing the 9th Grade scores
+
+![Type_bef](https://github.com/assaci/School_District_Analysis/blob/main/Type_bef.PNG?raw=true)
+
+## Summary: 
 
 
 
