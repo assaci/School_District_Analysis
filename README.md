@@ -8,7 +8,7 @@ The purpose of this project is to analysis information, student funding and stan
 Data 
 To help with the analysis we used data from
 
-| Schools data | Students Data |
+| District' s Schools data | District Students' Data |
 |--------------|---------------|                
 |school_name   | Student ID    |
 | type         | student_name  |
@@ -16,4 +16,4 @@ To help with the analysis we used data from
 | budget       | school_name   |
 |              |reading_score  | 
 |              | math_score    |
-|------------------------------|
+
