@@ -37,20 +37,19 @@ PyCity school district is constituted of 2 schools's types : district and charte
 
 ![dist_summary_before](https://github.com/assaci/School_District_Analysis/blob/main/dist_summary_before.PNG?raw=true)
 
-### District Summary Per School Initial Dataframe
+### District Summary
 
-The dataframe below shows that initially , Thomas High School the percentage for passing match score was 93.27% , the passing reading score was 97.30%, and overall passing was 90.94. The passing math score percentage for the entire district 75%,  reading score were 86% while overall passing percentage was 65%.
+#### Before Replacing the 9th Grade scores
 
 ![dist_data](https://github.com/assaci/School_District_Analysis/blob/main/dist_data.PNG?raw=true)
 
-### District Summary - without Thomas High School 9th Graders scores.
+### School Summary
 
-### School Summary 
+#### After Replacing the 9th Grade scores
 
-### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+![Dist_After](https://github.com/assaci/School_District_Analysis/blob/main/Dist_After.PNG?raw=true
 
 When comparing the 2 data from District Summary, we see that Thomas High School the percentage for passing match score was 93.27% , the passing reading score was 97.30%, and overall passing was 90.94. The passing math score percentage for the entire district 75%,  reading score were 86% while overall passing percentage was 65%.
-![Dist_After](https://github.com/assaci/School_District_Analysis/blob/main/Dist_After.PNG?raw=true
 
 ## How does replacing the ninth-grade scores affect the following:
 
@@ -114,6 +113,8 @@ When comparing the 2 data from District Summary, we see that Thomas High School 
 
 ### Scores by school type
 
+There was no significant change to the scores by school types
+
 #### Before Replacing the 9th Grade scores
 
 ![type_after](https://github.com/assaci/School_District_Analysis/blob/main/type_after.PNG?raw=true)
@@ -123,6 +124,9 @@ When comparing the 2 data from District Summary, we see that Thomas High School 
 ![Type_bef](https://github.com/assaci/School_District_Analysis/blob/main/Type_bef.PNG?raw=true)
 
 ## Summary: 
+
+Our Reports shows that after replacing Thomas High School 9th graters scores for math and reading, there was no significant change to the District Summary data.Even after updating the dataframe with new metrics from the school. The math and reading scores per school have not also change and well as scores by spending, school size or type. 
+
 
 
 
