@@ -49,22 +49,23 @@ PyCity school district is constituted of 2 schools's types : district and charte
 
 ### Math and reading scores by grade
 
-#### Scores by Grade Before Replacing the 9th Grade scores
+#### Before Replacing the 9th Grade scores
 
-- Math Scores Per Grade
+##### Math Scores Per Grade
+
 ![math_scores_bef](https://github.com/assaci/School_District_Analysis/blob/main/math_scores_bef.PNG?raw=true)
 
-- Reading Scores Per Grade
+##### Reading Scores Per Grade
 
 ![reading_sco_bef](https://github.com/assaci/School_District_Analysis/blob/main/reading_sco_bef.PNG?raw=true)
 
-#### Scores by Grade After Replacing the 9th Grade scores
+#### After Replacing the 9th Grade scores
 
-- Math Scores Per Grade
+##### Math Scores Per Grade
 
 ![match_sc_after1](https://github.com/assaci/School_District_Analysis/blob/main/match_sc_after1.PNG?raw=true)
 
-- Reading Scores Per Grade
+##### Reading Scores Per Grade
 
 ![math_scores_after](https://github.com/assaci/School_District_Analysis/blob/main/math_scores_after.PNG?raw=true)
 
