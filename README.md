@@ -35,15 +35,22 @@ To provide a better inshight for the analysis and ensure data accuracy, we fisrt
 ### School District Analysis
 PyCity school district is constituted of 2 schools's types : district and charter schools. It has 39,170 high school students. The total budget of the district is $24,649,428.00 , which are distributed between 15 high schools.  
 
-### District Summary with All Thomas High School grades and scores
-
 ![dist_summary_before](https://github.com/assaci/School_District_Analysis/blob/main/dist_summary_before.PNG?raw=true)
- 
+
+### District Summary Per School Initial Dataframe
+
+The dataframe below shows that initially , Thomas High School the percentage for passing match score was 93.27% , the passing reading score was 97.30%, and overall passing was 90.94. The passing math score percentage for the entire district 75%,  reading score were 86% while overall passing percentage was 65%.
+
 ![dist_data](https://github.com/assaci/School_District_Analysis/blob/main/dist_data.PNG?raw=true)
 
-### District Summary - without Thomas High School 9th Graders scores. 
+### District Summary - without Thomas High School 9th Graders scores.
+
 ### School Summary 
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+When comparing the 2 data from District Summary, we see that Thomas High School the percentage for passing match score was 93.27% , the passing reading score was 97.30%, and overall passing was 90.94. The passing math score percentage for the entire district 75%,  reading score were 86% while overall passing percentage was 65%.
+![Dist_After](https://github.com/assaci/School_District_Analysis/blob/main/Dist_After.PNG?raw=true
 
 ## How does replacing the ninth-grade scores affect the following:
 
@@ -69,6 +76,21 @@ PyCity school district is constituted of 2 schools's types : district and charte
 
 ![math_scores_after](https://github.com/assaci/School_District_Analysis/blob/main/math_scores_after.PNG?raw=true)
 
+
+### High and Low Performing Schools
+
+#### Before Replacing the 9th Grade scores
+
+![top_school](https://github.com/assaci/School_District_Analysis/blob/main/top_school.PNG?raw=true)
+
+![bottom_schools](https://github.com/assaci/School_District_Analysis/blob/main/bottom_schools.PNG?raw=true)
+
+#### After Replacing the 9th Grade scores
+
+![top_schools_after](https://github.com/assaci/School_District_Analysis/blob/main/top_schools_after.PNG?raw=true)
+
+![bottom_schools_after](https://github.com/assaci/School_District_Analysis/blob/main/bottom_schools_after.PNG?raw=true)
+
 ### Scores by school spending
 
 #### Before Replacing the 9th Grade scores
@@ -79,6 +101,7 @@ PyCity school district is constituted of 2 schools's types : district and charte
 
 ![spen_after](https://github.com/assaci/School_District_Analysis/blob/main/spen_after.PNG?raw=true)
 
+
 ### Scores by school size
 
 #### Before Replacing the 9th Grade scores
@@ -87,6 +110,7 @@ PyCity school district is constituted of 2 schools's types : district and charte
 
 #### After Replacing the 9th Grade scores
 ![rsize_after](https://github.com/assaci/School_District_Analysis/blob/main/size_after.PNG?raw=true)
+
 
 ### Scores by school type
 
