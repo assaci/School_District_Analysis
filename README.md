@@ -6,6 +6,7 @@ The PyCity school board wants to repeat analysis of the district information to 
 The purpose of this project is to analysis information, student funding and standardized testing scores of all schools in the district and create a report to provide insight to schools’ trends and performance and assist school board and superintendent in making decision regarding schools’ budgets and priorities. 
 
 Data 
+
 To help with the analysis we used data from
 
 | District' s Schools data | District Students' Data |
