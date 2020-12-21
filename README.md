@@ -18,7 +18,7 @@ To help with the analysis we used data school district data below
 |              |reading_score  | 
 |              | math_score    |
 
-To provide a better inshight for the analysis and ensure data accuracy, we fisrt, replaced the 9th grade reading and math scores at Thomas High School with NaN while keeping the rest of the data intact. then we repaded the analysis by calculating the following metrics:
+To provide a better inshight for the analysis and ensure data accuracy, we fisrt, replaced the 9th grade reading and math scores at Thomas High School with NaN while keeping the rest of the data intact. then we updated the following metrics:
 
 - The district summary
 - The school summary
@@ -29,3 +29,8 @@ To provide a better inshight for the analysis and ensure data accuracy, we fisrt
 - The scores by school size
 - The scores by school size
 - The scores by school type
+
+
+## Results
+
+
