@@ -108,8 +108,8 @@ When comparing the 2 data from District Summary, we see that Thomas High School 
 ![size_bef](https://github.com/assaci/School_District_Analysis/blob/main/size_bef.PNG?raw=true)
 
 #### After Replacing the 9th Grade scores
-![rsize_after](https://github.com/assaci/School_District_Analysis/blob/main/size_after.PNG?raw=true)
 
+![size_after](https://github.com/assaci/School_District_Analysis/blob/main/size_after.PNG?raw=true)
 
 ### Scores by school type
 
