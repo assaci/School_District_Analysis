@@ -34,7 +34,7 @@ To provide a better inshight for the analysis and ensure data accuracy, we fisrt
 
 ### School District Analysis
 
- ![dist_summary_before](https://github.com/assaci/School_District_Analysis/Resources/blob/main/dist_summary_before.PNG?raw=true)
+![dist_summary_before](https://github.com/assaci/School_District_Analysis/Resources/blob/main/dist_summary_before.PNG?raw=true)
  
 
 
